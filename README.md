@@ -1,1 +1,1 @@
-# Paper2Code_vanillaGAN
+# Pytorch Vanilla GAN
